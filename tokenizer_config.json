@@ -1,0 +1,4 @@
+{
+    "auto_map":["AutoTokenizer", "attack.any",null],
+    "model_type":"test"
+}
